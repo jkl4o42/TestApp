@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">TestApp</string>
+    <string name="input_a_number">Input a number</string>
+    <string name="get_fact">Get fact</string>
 </resources>
